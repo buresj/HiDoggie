@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/HiDoggie/static/js/main.db004da3.chunk.js",
+    "main.js.map": "/HiDoggie/static/js/main.db004da3.chunk.js.map",
+    "runtime~main.js": "/HiDoggie/static/js/runtime~main.269641a3.js",
+    "runtime~main.js.map": "/HiDoggie/static/js/runtime~main.269641a3.js.map",
+    "static/js/2.347839a1.chunk.js": "/HiDoggie/static/js/2.347839a1.chunk.js",
+    "static/js/2.347839a1.chunk.js.map": "/HiDoggie/static/js/2.347839a1.chunk.js.map",
+    "index.html": "/HiDoggie/index.html",
+    "precache-manifest.eddb3cea6b756c6dbde6f9981a985924.js": "/HiDoggie/precache-manifest.eddb3cea6b756c6dbde6f9981a985924.js",
+    "service-worker.js": "/HiDoggie/service-worker.js",
+    "static/media/5554.jpg": "/HiDoggie/static/media/5554.0014511f.jpg",
+    "static/media/bruno_avatar.png": "/HiDoggie/static/media/bruno_avatar.e81b77e6.png",
+    "static/media/logo.png": "/HiDoggie/static/media/logo.47ae5de7.png"
+  }
+}
