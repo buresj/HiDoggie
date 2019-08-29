@@ -122,8 +122,8 @@ const Chat = props => {
                 {
                     id: 'update-question',
                     options: [
-                        { value: 'yes', label: 'Yes', trigger: 'update-yes' },
-                        { value: 'no', label: 'No', trigger: 'end-message' },
+                        { value: 'yes', label: 'Ano', trigger: 'update-yes' },
+                        { value: 'no', label: 'Ne', trigger: 'end-message' },
                     ],
                 },
                 {
@@ -134,7 +134,7 @@ const Chat = props => {
                 {
                     id: 'update-fields',
                     options: [
-                        { value: 'name', label: 'Name', trigger: 'update-name' },
+                        { value: 'name', label: 'Jméno', trigger: 'update-name' },
                         { value: 'email', label: 'Email', trigger: 'update-email' },
                     ],
                 },
