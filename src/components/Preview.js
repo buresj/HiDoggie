@@ -22,15 +22,15 @@ export default class Review extends Component {
         const { name, email } = this.state;
         return (
             <div style={{ width: '100%' }}>
-                <h3>Summary</h3>
+                <h3>Shrnut9</h3>
                 <table>
                     <tbody>
                         <tr>
-                            <td>Name</td>
+                            <td>Jméno:</td>
                             <td>{name.value}</td>
                         </tr>
                         <tr>
-                            <td>Email</td>
+                            <td>Email:</td>
                             <td>{email.value}</td>
                         </tr>
                     </tbody>
