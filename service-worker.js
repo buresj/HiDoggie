@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/HiDoggie/precache-manifest.eddb3cea6b756c6dbde6f9981a985924.js"
+  "/HiDoggie/precache-manifest.f60c3768f2be8fda560442a2481d0224.js"
 );
 
 self.addEventListener('message', (event) => {
